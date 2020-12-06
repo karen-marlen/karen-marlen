@@ -18,7 +18,7 @@
 const karen = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
+    askMeAbout: ["web dev", "app dev", "design"],
     technologies: {
         mobileApp: [""],
         frontEnd: {
