@@ -5,7 +5,6 @@
 
 ````bash
 > help --contact
-> instagram: karenzhec
 > github: karen-marlen
 > twitter: @krenjs
 > email: karenzhec@gmail.com
@@ -29,9 +28,9 @@ const karen = {
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳"],
+        devOps: ["AWS"],
         databases: ["mongo", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "open-cv"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
 };
@@ -39,4 +38,4 @@ const karen = {
 
 ---
 
-⭐️ From [@karen-marlen](https://github.com/karen-marlen)
+⭐️ from [@karen-marlen](https://github.com/karen-marlen)
