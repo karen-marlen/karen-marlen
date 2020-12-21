@@ -16,7 +16,7 @@
 ```javascript
 const karen = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "app dev", "design"],
     technologies: {
         mobileApp: [""],
@@ -29,7 +29,7 @@ const karen = {
             python: ["flask"]
         },
         devOps: ["AWS"],
-        databases: ["mongo", "sqlite"],
+        databases: ["mongo"],
         misc: ["Firebase", "Socket.IO", "open-cv"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
