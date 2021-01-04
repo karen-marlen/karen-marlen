@@ -29,8 +29,8 @@ const karen = {
             python: ["flask"]
         },
         devOps: ["AWS"],
-        databases: ["mongo"],
-        misc: ["Firebase", "Socket.IO", "open-cv"]
+        databases: ["MongoDB"],
+        misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
 };
@@ -38,4 +38,4 @@ const karen = {
 
 ---
 
-⭐️ from [@karen-marlen](https://github.com/karen-marlen)
+from [@karen-marlen](https://github.com/karen-marlen)
