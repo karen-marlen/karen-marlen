@@ -6,7 +6,7 @@
 ````bash
 > help --contact
 > github: karen-marlen
-> twitter: @krenjs
+> twitter: @karenzhec
 > email: karenzhec@gmail.com
 ````
 
@@ -16,23 +16,22 @@
 ```javascript
 const karen = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript", "Python"],
+    code: ["Javascript", "Typescript"],
     askMeAbout: ["web dev", "app dev", "design"],
     technologies: {
         mobileApp: [""],
         frontEnd: {
-            js: ["Vue", "Nuxt", "React"],
+            js: ["Vue", "Next", "React"],
             css: ["tailwind", "vuetify", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"]
         },
         devOps: ["AWS"],
         databases: ["MongoDB"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive Web Applications", "Single Page Applications"],
 };
 ```
 
