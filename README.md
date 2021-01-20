@@ -6,7 +6,7 @@
 ````bash
 > help --contact
 > github: karen-marlen
-> twitter: @karenzhec
+> twitter: @karzhec
 > email: karenzhec@gmail.com
 ````
 
@@ -21,7 +21,7 @@ const karen = {
     technologies: {
         mobileApp: [""],
         frontEnd: {
-            js: ["Vue", "Next", "React"],
+            js: ["Vue", "Next", "React", "Svelte"],
             css: ["tailwind", "vuetify", "bootstrap", "bulma"]
         },
         backEnd: {
