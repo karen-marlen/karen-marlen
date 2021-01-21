@@ -28,7 +28,7 @@ const karen = {
             js: ["node", "express"],
         },
         devOps: ["AWS"],
-        databases: ["MongoDB"],
+        database: ["MongoDB"],
         misc: ["Firebase"]
     },
     architecture: ["Progressive Web Applications", "Single Page Applications"],
