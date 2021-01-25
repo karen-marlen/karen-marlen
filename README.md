@@ -25,7 +25,7 @@ const karen = {
             css: ["tailwind", "vuetify", "bootstrap", "bulma"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
         devOps: ["AWS"],
         databases: ["MongoDB"],
