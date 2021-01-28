@@ -31,7 +31,7 @@ const karen = {
         databases: ["MongoDB"],
         misc: ["Firebase"]
     },
-    architecture: ["Progressive Web Applications", "Single Page Applications"],
+    architecture: ["Progressive Web Applications", "Single Page Applications"]
 };
 ```
 
