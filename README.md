@@ -1,4 +1,4 @@
-<h2> Hi, I'm Karen!</h2>
+<h2> Hi, I'm Karen Marlen!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/72042911/100793543-080fe780-33fb-11eb-84c0-cb6a09d112e3.png" width="250">
 <p><em>full-stack developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
